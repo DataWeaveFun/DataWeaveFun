@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DataWeaveFun
 - 👀 I’m interested in Sharing Dataweave fun facts...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/company/dataweave-fun/
 
 <!---
